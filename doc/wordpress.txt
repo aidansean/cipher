@@ -1,0 +1,19 @@
+This page contains some simple ciphers. This was going to be extended to include some more sophisticated ciphers, but I didn't have the time or incentive to develop this page further.
+
+<h3>Links</h3>
+
+<a href="http://www.aidansean.com/cipher/">Live page</a>
+<a href="https://github.com/aidansean/cipher">GitHub repository</a>
+
+<h3>Overview</h3>
+
+At the moment the page currently supports two simple cipher:
+<ul>
+  <li>rot-13: A cipher where each character is shifted by 13 places along the alphabet</li>
+  <li>Holly: A cipher developed by a friend as a child.  This page was made to crack that cipher for fun.</il>
+</ul>
+
+<h3>Challenges</h3>
+
+<dl>
+</dl>
