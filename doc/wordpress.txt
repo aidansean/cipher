@@ -12,8 +12,3 @@ At the moment the page currently supports two simple cipher:
   <li>rot-13: A cipher where each character is shifted by 13 places along the alphabet</li>
   <li>Holly: A cipher developed by a friend as a child.  This page was made to crack that cipher for fun.</il>
 </ul>
-
-<h3>Challenges</h3>
-
-<dl>
-</dl>
