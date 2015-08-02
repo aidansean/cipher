@@ -1,7 +1,8 @@
 <?php
 $title = 'Ciphers' ;
 $js_scripts = array('functions.js') ;
-include($_SERVER['FILE_PREFIX'] . '/_core/preamble.php') ;
+include_once('project.php') ;
+include_once($_SERVER['FILE_PREFIX'] . '/_core/preamble.php') ;
 ?>
 
     <div class="right">
